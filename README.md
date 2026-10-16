@@ -39,23 +39,23 @@ A personalized learning system connecting learner profiles, retrieval-supported 
 
 <sub>TypeScript &nbsp; / &nbsp; RAG &nbsp; / &nbsp; Application engineering</sub>
 
-**04 &nbsp; / &nbsp; [Qwen2609-Evaluation](https://github.com/Zhuyuyangyy/Qwen2609-Evaluation)** &nbsp; <sub>TOOLING / REPRODUCIBILITY</sub>
+**04 &nbsp; / &nbsp; [Zhiguang-Planting](https://github.com/Zhuyuyangyy/Zhiguang-Planting)** &nbsp; <sub>PRODUCT / 3D WEB</sub>
 
-Read-only benchmark aggregation and reporting utilities designed to preserve frozen evaluation artifacts and the grader's original decisions.
-
-<sub>Python &nbsp; / &nbsp; Benchmarking &nbsp; / &nbsp; Result provenance</sub>
-
-**05 &nbsp; / &nbsp; [Zhiguang-Planting](https://github.com/Zhuyuyangyy/Zhiguang-Planting)** &nbsp; <sub>PRODUCT / 3D WEB</sub>
-
-A dental education prototype combining interactive 3D visualization, question-answering, and full-stack management services.
+A dental education prototype bringing together spatial visualization, question-answering, and a Spring Boot service layer.
 
 <sub>Vue 3 &nbsp; / &nbsp; Three.js &nbsp; / &nbsp; Spring Boot</sub>
 
-**06 &nbsp; / &nbsp; [daily-zero-decision](https://github.com/Zhuyuyangyy/daily-zero-decision)** &nbsp; <sub>PRODUCT / INTERACTION</sub>
+**05 &nbsp; / &nbsp; [daily-zero-decision](https://github.com/Zhuyuyangyy/daily-zero-decision)** &nbsp; <sub>PRODUCT / INTERACTION</sub>
 
-A gentler habit app that turns everyday progress into a growing sky, with mood tracking, focus tools, and local-first data.
+A gentle habit and action app, with thoughtful interactions, browser-local progress, and a growing visual sky.
 
-<sub>React &nbsp; / &nbsp; TypeScript &nbsp; / &nbsp; Interface design</sub>
+<sub>React &nbsp; / &nbsp; TypeScript &nbsp; / &nbsp; Product design</sub>
+
+**06 &nbsp; / &nbsp; [Qwen2609-Evaluation](https://github.com/Zhuyuyangyy/Qwen2609-Evaluation)** &nbsp; <sub>TOOLING / REPRODUCIBILITY</sub>
+
+Read-only benchmark result aggregation. Preserves the grader's verdicts and refuses to publish a formal rate for partial runs.
+
+<sub>Python &nbsp; / &nbsp; Evaluation tooling &nbsp; / &nbsp; Result provenance</sub>
 
 ---
 
